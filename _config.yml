@@ -1,22 +1,21 @@
 theme: jekyll-theme-chirpy
 lang: en
 timezone: Africa/Nairobi
-title: Hushkat's Blog page
-tagline: Cyber Security Enthusiast | CTF Player
+title: Mbogo's Blog page
+tagline: Cyber Security Enthusiast | Cloud and Networks Specialist
 description: >- 
-  My journey into Cyber Security through CTFs.
-url: "https://hushkat.github.io"
+  My journey into Cloud and Network Architecture.
+url: "https://Lukembogo-dot.github.io"
 github:
-  username: hushkat
+  username: Luke
 twitter:
-  username: dr0idbot
+  username: Mbogo
 social:
-  name: Samuel Katana
-  email: samykat46@gmail.com # change to your email address
+  name: Luke Mbogo
+  email: lukembogo5@gmail.com # change to your email address
   links:
-    - https://twitter.com/dr0idbot
-    - https://github.com/hushkat
-    - https://www.linkedin.com/in/katanasamuel
+    - https://github.com/Lukembogo-dot
+    - https://www.linkedin.com/in/luke-mbogo254/
 webmaster_verifications:
   google: # fill in your Google verification code
   bing: # fill in your Bing verification code
