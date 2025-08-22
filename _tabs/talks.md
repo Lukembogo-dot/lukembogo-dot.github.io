@@ -1,42 +1,43 @@
 ---
-title: Talks
-icon: fas fa-chalkboard-teacher 
+title: Education
+icon: fas fa-chalkboard-teacher
 order: 2
 comments: true
 ---
 
-# 🗣️ Talks & Presentations
+## 🎓 University & Academic
 
-A curated list of past speaking engagements focused on cybersecurity, ethical hacking, and Capture The Flag (CTF) education.
+- **KCA UNIVERSITY** — *Bachelor of Business Information Technology(BBIT)*  
+  `Level:` Bachelors Degree 
+  `Year:` 2020 - 2024
 
----
+- **Cyber Shujaa** — *Cloud and Network Security*  
+  ` Level:` Intensive Short Course  
+  `Year:` March 2025 - August 2025
 
-## 🎓 University & Academic Sessions
+- **ALX Africa** — *AWS Cloud Computing*  
+  `Level:` Intensive Course 
+  ` Year:` March 2025 - October 2025
 
-- **University of Nairobi** — *Intro to Cyber Security & CTFs for Fourth Years*  
-  `Audience:` Final year students in Computer Science  
-  `Topic:` Foundations of cybersecurity, practical CTF skills
+- **Power Learn Project** — *Software Engineering*  
+  `Level:` Short Course 
+  `Topic:` April 2025 - September 2025
 
-- **Serianu x Nairobi Academy** — *Cybersecurity Awareness for High School Students*  
-  `Audience:` High school students  
-  `Topic:` Basics of cyber hygiene, real-world threats, and ethical hacking
+- **Cisco Networking Academy** — *Cisco Ethical Hacker*  
+  `Level:` Self-Paced Intensive Course 
+  `Topic:` July 2024 - September 2024
 
-- **Microsoft ADC Bootcamp** — *Ethical Hacking & Intro to CTFs*  
-  `Audience:` High school tech bootcamp attendees  
-  `Topic:` Hacking mindset, tools, and hands-on labs
+- **Cisco Networking Academy** — *Networking Essentials, Networking Basics*  
+  `Level:` Self-Paced Courses 
+  `Topic:` September 2024 - November 2024
 
----
+- **Alison Academy** — *Diploma in Cyber Security*  
+  `Level:` Self-Paced Course 
+  `Topic:` January 2024 - April 2024
 
-## 🌍 Community & Industry Events
-
-- **KSG - Top Women in Cyber Africa** — *Intro to CTFs*  
-  `Audience:` Women in cybersecurity across Africa  
-  `Topic:` Capture The Flag overview, tools, and strategies  
-  `Goal:` Empowering underrepresented groups in cybersecurity
-
-- **Hack The Box Kenya - Nocturnal Box**  
-  `Format:` Live hacking event  
-  `Topic:` Solving an HTB challenge box with real-time walkthrough and Q&A
+- **Alx Africa** — *AI Career Essentials*  
+  `Level:` Self-Paced Course 
+  `Topic:` April 2024 - August 2024
 
 ---
 
